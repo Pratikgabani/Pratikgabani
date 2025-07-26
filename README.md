@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikgabani&label=Profile%20views&color=0e75b6&style=flat" alt="pratikgabani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikgabani" alt="pratikgabani" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pratikgabani07" target="blank"><img src="https://img.shields.io/twitter/follow/pratikgabani07?logo=twitter&style=for-the-badge" alt="pratikgabani07" /></a> </p>
 
 - 🔭 I’m currently working on [Resihub](https://resi-hub.onrender.com)
