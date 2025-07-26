@@ -2,7 +2,7 @@
 <h3 align="center">A MERN Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikgabani&label=Profile%20views&color=0e75b6&style=flat" alt="pratikgabani" /> </p>
-<img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" alt = "Coding" width = "400" align = "right"/>
+<img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" alt = "Coding" width = "400" align = "right">
 <p align="left"> <a href="https://twitter.com/pratikgabani07" target="blank"><img src="https://img.shields.io/twitter/follow/pratikgabani07?logo=twitter&style=for-the-badge" alt="pratikgabani07" /></a> </p>
 
 - 🔭 I’m currently working on [Resihub](https://resi-hub.onrender.com)
